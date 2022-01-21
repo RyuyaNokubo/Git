@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello VisualStadio Git!\n";
+    std::cout << "リモートで変更!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
